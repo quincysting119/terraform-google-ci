@@ -1,5 +1,5 @@
 
-[![Build Status](https://dev.azure.com/WoolworthsCORPTest/Cloud-Platform-POC-GCP/_apis/build/status/GCP-CloudSQL-POC-CI?branchName=main)](https://dev.azure.com/WoolworthsCORPTest/Cloud-Platform-POC-GCP/_build/latest?definitionId=35&branchName=main)
+[![Maintained by Gruntwork.io](https://img.shields.io/badge/maintained%20by-gruntwork.io-%235849a6.svg)](https://gruntwork.io/?ref=repo_google_ci)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/gruntwork-io/terraform-google-ci.svg?label=latest)](https://github.com/gruntwork-io/terraform-google-ci/releases/latest)
 ![Terraform Version](https://img.shields.io/badge/tf-%3E%3D0.12.0-blue.svg)
 
